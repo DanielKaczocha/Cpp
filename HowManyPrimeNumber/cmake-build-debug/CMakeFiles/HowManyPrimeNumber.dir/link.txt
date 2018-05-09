@@ -1,0 +1,3 @@
+"G:\JetBrains\CLion 2018.1.1\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\HowManyPrimeNumber.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-7~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\HowManyPrimeNumber.dir/objects.a @CMakeFiles\HowManyPrimeNumber.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-7~1.0-P\mingw32\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\HowManyPrimeNumber.dir/objects.a -Wl,--no-whole-archive  -o HowManyPrimeNumber.exe -Wl,--out-implib,libHowManyPrimeNumber.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\HowManyPrimeNumber.dir\linklibs.rsp
